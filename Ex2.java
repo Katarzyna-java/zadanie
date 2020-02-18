@@ -6,7 +6,7 @@ pubic class Example {
       System.out.println(majka);
 
 
-        double number = 2.33;
+        double number = 2.22223;
         double number2 = 2.34333;
 
         System.out.println(number);
